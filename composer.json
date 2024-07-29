@@ -1,0 +1,17 @@
+{
+    "name": "abhishek/5th-june",
+    "autoload": {
+        "psr-4": {
+            "Abhishek\\5thJune\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vaibhav-Chodankar",
+            "email": "vaibhavac03@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
